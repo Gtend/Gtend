@@ -6,12 +6,11 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <text>
             Hello there! I am currently conducting research in Artificial Intelligence. My main area of expertise is Computer Vision, and I am also interested in the field of Natural Language Processing (NLP). Additionally, I am a full-stack AI developer with experience in both backend and frontend development. For inquiries, please contact me via the email address below.
-
         </text>
         <h4>🪄 Papers: ...</h4>
         <ul>
             <li>
-                aa
+                ..
             </li>
         </ul>
     </div>
