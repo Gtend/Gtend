@@ -70,10 +70,10 @@
     <br> 
     <div style="text-align: left;">
         <a href=https://cuws.notion.site>
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://cuws.notion.site">
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/28a4ad83ef0b43699143811849b867f2?pvs=4">
         </a>
-        <a href=mailto:irack000@gmail.com>
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:irack000@gmail.com">
+        <a href=mailto:gtend1121@gmail.com>
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gtend1121@gmail.com">
         </a>
     </div>
     <br> 
@@ -83,14 +83,14 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=b-re-w&bg_color=60,b880c5,606595&title_color=f9f4fb&text_color=f9f4fb"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-re-w&layout=compact&bg_color=60,8473c3,92a7bf&title_color=14093e&text_color=14093e"/>
+        <img src="https://github-readme-stats.vercel.app/api?    username=gtend&bg_color=60,b880c5,606595&title_color=f9f4fb&text_color=f9f4fb"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtend&layout=compact&bg_color=60,8473c3,92a7bf&title_color=14093e&text_color=14093e"/>
     </div>
 </div>
     
 
 <!--
-**b-re-w/b-re-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gtend/gtend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
