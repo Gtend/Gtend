@@ -62,9 +62,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gtend&layout=compact&bg_color=60,8473c3,92a7bf&title_color=14093e&text_color=14093e"/>
     </div>
 </div>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⏰ When I'm active </h2>
-    <div style="text-align: left;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Gtend&theme=dark&hide_border=true" alt="I'm active time"/>
-    </div>
-</div>
